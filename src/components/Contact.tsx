@@ -51,7 +51,7 @@ export default function Contact() {
                   <Phone size={20} className="text-brand-green" />
                 </div>
                 <div>
-                  <p className="text-sm text-brand-gray-400 font-medium">Call Us</p>
+                  <p className="text-sm text-brand-gray-400 font-medium">Call or Text</p>
                   <a href="tel:2624167774" aria-label="Call Gutters Craft at 262-416-7774" className="text-brand-black font-bold text-lg hover:underline">
                     (262) 416-7774
                   </a>
