@@ -61,3 +61,8 @@ Open Graph (OG) Tags: Added og:title, og:description, og:image, and twitter:card
 Semantic Tagging: Wrapped the <address> sections properly in Contact.tsx.
 
 Aria Accessibility: Added custom aria-label tags to the navigation, hero call-to-actions, and footer shortcuts ("Call Gutters Craft at 262-416-7774" instead of an empty anchor link) to guarantee 100/100 accessibility and SEO crawler scores.
+
+
+
+***** To DO ****
+Optomize all images for page speed
