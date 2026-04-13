@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="#000">
+  <!-- Roof icon -->
+  <path d="M200 20 L140 70 L150 70 L150 65 L200 25 L250 65 L250 70 L260 70 Z" fill="#000"/>
+  <rect x="248" y="45" width="12" height="25" fill="#000"/>
+  <!-- Company name -->
+  <text x="200" y="140" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="42" font-weight="700" letter-spacing="4" fill="#000">GUTTERS CRAFT LLC</text>
+  <!-- Tagline -->
+  <text x="200" y="185" text-anchor="middle" font-family="'Brush Script MT', 'Dancing Script', cursive" font-size="28" fill="#000">Cleaning, Repair &amp; Install</text>
+</svg>
