@@ -15,6 +15,7 @@ export default function Navbar() {
     { label: 'Services', href: '#services' },
     { label: 'Our Work', href: '#gallery' },
     { label: 'Why Us', href: '#why-us' },
+    { label: 'Reviews', href: '#reviews' },
     { label: 'Service Areas', href: '#areas' },
     { label: 'Contact', href: '#contact' },
   ];
