@@ -36,7 +36,7 @@ export default function ServiceAreas() {
     <section id="areas" className="py-24 md:py-32 bg-white">
       <div className="w-full max-w-7xl mx-auto px-6 sm:px-10 lg:px-16 xl:px-24">
         <div className="text-center mb-16 reveal">
-          <span className="text-brand-gray-400 text-sm font-semibold tracking-[0.3em] uppercase">
+          <span className="text-brand-blue text-sm font-semibold tracking-[0.3em] uppercase">
             Where We Work
           </span>
           <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-brand-black mt-4 tracking-normal">
@@ -53,7 +53,7 @@ export default function ServiceAreas() {
           {counties.map((county, i) => (
             <div
               key={county.name}
-              className="reveal group border border-brand-gray-200 p-6 transition-all duration-500 hover:border-brand-black hover:shadow-lg"
+              className="reveal group border border-brand-gray-200 p-6 transition-all duration-500 hover:border-brand-blue hover:shadow-lg"
               style={{ transitionDelay: `${i * 60}ms` }}
             >
               <div className="flex items-center gap-3 mb-4">

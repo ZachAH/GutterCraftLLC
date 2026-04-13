@@ -61,7 +61,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-20 w-full max-w-6xl mx-auto px-6 sm:px-10 md:px-16 lg:px-24 text-center">
         <div className="reveal flex justify-center mb-10">
-          <div className="inline-flex flex-col md:flex-row items-center gap-4 md:gap-6 bg-brand-black/60 backdrop-blur-md border border-white/10 border-b-4 border-b-brand-gray-300 px-6 sm:px-8 py-4 shadow-2xl rounded-sm">
+          <div className="inline-flex flex-col md:flex-row items-center gap-4 md:gap-6 bg-brand-black/60 backdrop-blur-md border border-white/10 border-b-4 border-b-brand-blue px-6 sm:px-8 py-4 shadow-2xl rounded-sm">
             <div className="flex items-center gap-3">
               <Shield size={20} className="text-brand-green" />
               <span className="text-white text-sm font-bold tracking-widest uppercase">
@@ -70,9 +70,9 @@ export default function Hero() {
             </div>
             <div className="hidden md:block w-[1px] h-6 bg-white/20"></div>
             <div className="flex flex-wrap justify-center items-center gap-4 sm:gap-6 text-white/80 text-xs sm:text-sm font-bold tracking-widest uppercase">
-              <span className="flex items-center gap-2"><Droplets size={16} className="text-brand-gray-300" /> Gutters</span>
-              <span className="flex items-center gap-2"><Home size={16} className="text-brand-gray-300" /> Roofing</span>
-              <span className="flex items-center gap-2"><Wrench size={16} className="text-brand-gray-300" /> Siding</span>
+              <span className="flex items-center gap-2"><Droplets size={16} className="text-brand-blue" /> Gutters</span>
+              <span className="flex items-center gap-2"><Home size={16} className="text-brand-blue" /> Roofing</span>
+              <span className="flex items-center gap-2"><Wrench size={16} className="text-brand-blue" /> Siding</span>
             </div>
           </div>
         </div>

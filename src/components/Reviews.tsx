@@ -28,12 +28,12 @@ export default function Reviews() {
     <section id="reviews" className="py-24 md:py-32 bg-brand-gray-50 relative overflow-hidden">
       <div className="w-full max-w-7xl mx-auto px-6 sm:px-10 lg:px-16 xl:px-24 relative z-10">
         <div className="text-center max-w-3xl mx-auto mb-16 reveal">
-          <span className="text-brand-accent font-semibold tracking-[0.2em] uppercase text-sm">
+          <span className="text-brand-blue font-semibold tracking-[0.2em] uppercase text-sm">
             Client Testimonials
           </span>
           <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-brand-black mt-4 mb-6 leading-tight">
             Trusted by Our <br className="hidden md:block" />
-            <span className="text-brand-accent">Community</span>
+            <span className="text-brand-blue">Community</span>
           </h2>
           <p className="text-brand-gray-600 text-lg md:text-xl">
             Don't just take our word for it. Here is what our clients have to say about our professionalism, quality, and service. Directly from Google.

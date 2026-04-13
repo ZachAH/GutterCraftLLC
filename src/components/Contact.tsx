@@ -32,7 +32,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24">
           {/* Left — info */}
           <div className="reveal-left">
-            <span className="text-brand-gray-400 text-sm font-semibold tracking-[0.3em] uppercase">
+            <span className="text-brand-blue text-sm font-semibold tracking-[0.3em] uppercase">
               Get In Touch
             </span>
             <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-brand-black mt-4 tracking-normal leading-snug">

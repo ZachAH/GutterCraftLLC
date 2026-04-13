@@ -49,7 +49,7 @@ export default function Services() {
       <div className="w-full max-w-7xl mx-auto px-6 sm:px-10 lg:px-16 xl:px-24">
         {/* Section header */}
         <div className="text-center mb-20 reveal">
-          <span className="text-brand-gray-400 text-sm font-semibold tracking-[0.3em] uppercase">
+          <span className="text-brand-blue text-sm font-semibold tracking-[0.3em] uppercase">
             What We Do
           </span>
           <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-brand-black mt-4 tracking-normal">

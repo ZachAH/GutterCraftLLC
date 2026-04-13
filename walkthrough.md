@@ -1,13 +1,15 @@
-1. Visual Rebranding & Psychology 🎨
-I moved away from a stark black-and-white look and implemented a dynamic, trust-driven color palette:
+1. Visual Rebranding & Color Scheme 🎨
+Established a clean black-and-white foundation with blue and orange highlight accents:
 
-Trust (Blue): Deployed a deep, reliable blue (--brand-black) as the primary dark layer for maximum contrast and legibility.
+Primary (Black & White): True black (#111111) and white serve as the main colors across all backgrounds, text, and structural elements — delivering a bold, high-contrast, modern aesthetic.
 
-Action (Orange): Injected vibrant orange (--brand-accent) into primary Call-to-Action (CTA) buttons to drive immediate conversions.
+Highlights (Blue): A vibrant blue (#2563eb) is used for section labels, hero badge accents, service area hover borders, and the "Why Us" card hover states — adding energy and visual interest without competing with the core palette.
 
-Protection (Green): Wove green accents (--brand-green) throughout the site—via icons, backgrounds, and animations—to subconsciously invoke a feeling of security and nature.
+Action (Orange): Vibrant orange (#f97316) remains on all primary Call-to-Action (CTA) buttons — phone number, "Get a Free Quote," and form submission — to drive immediate conversions.
 
-I also swapped the primary heading typography to 'Outfit' and systematically removed negative letter-spacing for a friendlier, highly readable feel.
+Nature (Green): Green (#22c55e) is preserved for the falling leaves animation, service icons, feature bullet dots, and "Verified Client" badges — maintaining the natural, protective feel tied to exterior home services.
+
+Typography uses 'Outfit' for headings and 'Inter' for body text, with clean letter-spacing for a friendly, readable feel.
 
 2. Layout Decramping & Responsive Architecture 📐
 The site originally felt constrained. I implemented a major architecture update to maximize responsive spacing:

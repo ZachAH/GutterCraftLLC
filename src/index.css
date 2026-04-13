@@ -3,7 +3,7 @@
 @theme {
   --font-heading: 'Outfit', sans-serif;
   --font-body: 'Inter', sans-serif;
-  --color-brand-black: #1e3a8a; /* Deep Blue 900 for trust/reliability */
+  --color-brand-black: #111111; /* True black — primary dark color */
   --color-brand-white: #ffffff;
   --color-brand-gray-50: #f8fafc; /* Slate 50 */
   --color-brand-gray-100: #f1f5f9; /* Slate 100 */
@@ -15,8 +15,9 @@
   --color-brand-gray-700: #334155; /* Slate 700 */
   --color-brand-gray-800: #1e293b; /* Slate 800 */
   --color-brand-gray-900: #0f172a; /* Slate 900 */
-  --color-brand-accent: #f97316; /* Orange 500 for action */
-  --color-brand-green: #22c55e; /* Green 500 for accents and protection */
+  --color-brand-accent: #f97316; /* Orange 500 for action CTAs */
+  --color-brand-blue: #2563eb; /* Blue 600 for highlights */
+  --color-brand-green: #22c55e; /* Green 500 for leaves and nature */
 }
 
 

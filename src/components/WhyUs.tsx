@@ -56,7 +56,7 @@ export default function WhyUs() {
         {/* Header with family badge */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-24 items-center mb-24">
           <div className="reveal-left">
-            <span className="text-white/40 text-sm font-semibold tracking-[0.3em] uppercase">
+            <span className="text-brand-blue text-sm font-semibold tracking-[0.3em] uppercase">
               Why Choose Us
             </span>
             <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold mt-4 tracking-normal leading-snug">
@@ -87,7 +87,7 @@ export default function WhyUs() {
             return (
               <div
                 key={reason.title}
-                className="reveal group bg-white/5 border border-white/10 p-10 transition-all duration-500 hover:bg-white/10 hover:border-brand-green/50"
+                className="reveal group bg-white/5 border border-white/10 p-10 transition-all duration-500 hover:bg-white/10 hover:border-brand-blue/50"
                 style={{ transitionDelay: `${i * 80}ms` }}
               >
                 <div className="w-14 h-14 bg-brand-green/10 flex items-center justify-center mb-6 rounded-full transition-all duration-300 group-hover:bg-brand-green group-hover:scale-110 shadow-sm">
